@@ -19,6 +19,9 @@ My goal was to use NodeJs and Express to create user authentication in which the
 * some buttons and the search bars do not have functionality as that would require connecting to either my own database or an existing API, neither of which were the purpose of this project.
 
 ## In case you want to see the project without having to open up the app and run node server.js and cannot get past the login page
+![Screenshot (5)](https://user-images.githubusercontent.com/110861093/194641248-1998426a-e89f-4f85-a032-2ce1583e5eb2.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/110861093/194641260-02a78548-4651-42ac-85ae-6d58e873c631.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/110861093/194641275-bf95313d-c385-41b4-a0d1-c89abda97403.png)
 
 
 
