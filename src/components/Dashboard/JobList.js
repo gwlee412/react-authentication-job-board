@@ -15,7 +15,7 @@ export default function JobBoard({ allJobs, selectedCategory }) {
           <Box key={jobs.id}>
             <Box sx={{ background: "white", textAlign: "left", padding: "5%" }}>
               <Link
-                to={`/job/${jobs.id}`}
+                to={`/jobdetails/${jobs.id}`}
                 style={{ color: "black", textDecoration: "none" }}
               >
                 <Typography variant="h6" gutterBottom>
